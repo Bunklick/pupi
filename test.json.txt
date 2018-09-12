@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-sadfs
-=======
-ttt
->>>>>>> master
+as
